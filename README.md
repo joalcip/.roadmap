@@ -123,8 +123,11 @@ need to experiment with new development and funding models.
 ## Roadmap Guide: What can I do if I work in…?
 What can I do if I work in…
 
+[AI Research](#AIResearch)
+
 <ul>
 
+<a name="AIResearch"> </a>
 ### AI Research
 
   <li><span> Build participation technology. Create AI-enabled collective
