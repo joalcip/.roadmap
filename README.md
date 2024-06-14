@@ -124,6 +124,8 @@ need to experiment with new development and funding models.
 What can I do if I work in…
 
 [AI Research](#AIResearch)
+[AI Development](#AIDevelopment)
+[Policy, Public Investment, and Regulation](#Policy)
 
 <ul>
 
@@ -150,6 +152,8 @@ self-determination for data laborers, etc.</li>
 models. Engage people from different domain areas (democratic
 innovation, open source development, etc.) and geographies to apply
 these ideas in practice.</li>
+
+<a name="AIDevelopment"> </a>
 
 ### AI Development
 <li> Amplify internal teams already doing research on democratic AI
